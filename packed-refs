@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+839eeda57ca3dc6c21d6bd14deb3e20bade7708e refs/remotes/origin/basic-crud
+4712b4646c818ffe136119072f35c428ec1fb9cd refs/remotes/origin/cra-base
+0e7aa9e2d562026516c4978ea0fd2a418a1ea2c0 refs/remotes/origin/main
+692043c4cf3f1216c364087455caf4b0323da15f refs/remotes/origin/react-hook
